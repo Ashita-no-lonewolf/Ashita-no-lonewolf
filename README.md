@@ -45,7 +45,18 @@
 ###
 
 <!-- Snake Animation -->
-![snake gif](https://github.com/Ashita-no-lonewolf/Ashita-no-lonewolf/blob/output/github-snake-dark.svg)
+<div align="center">
+  <!-- Snake Animation -->
+  <img src="https://github.com/Ashita-no-lonewolf/Ashita-no-lonewolf/blob/output/github-snake-dark.svg" alt="snake animation" />
+</div>
+
+
+###
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashita-no-lonewolf&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 
 ###
 
