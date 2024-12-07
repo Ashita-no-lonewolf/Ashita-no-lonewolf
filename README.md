@@ -73,6 +73,11 @@
         <td><strong>Programming Languages</strong></td>
         <td><img height="40" src="https://skillicons.dev/icons?i=c,python,mysql" alt="Languages" /></td>
     </tr>
+
+<tr>
+        <td><strong>Developer Tools</strong></td>
+        <td><img height=40 src = "https://skillicons.dev/icons?i=github&theme=dark"></td>
+</tr>
     <!--<tr>
         <td><strong>Frontend Development</strong></td>
         <td><img height="40" src="https://skillicons.dev/icons?i=html,css" alt="Frontend Tools" /></td>
