@@ -1,7 +1,7 @@
 {
-  "name": "idimetrix",
+  "name": "Ashita-no-lonewolf",
   "version": "1.0.0",
-  "description": "📢 Nominate ([@idimetrix](https://github.com/idimetrix/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.",
+  "description": "📢 Nominate ([@Ashita-no-lonewolf](https://github.com/Ashita-no-lonewolf/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.",
   "main": "index.js",
   "scripts": {
     "format": "prettier --write .",
