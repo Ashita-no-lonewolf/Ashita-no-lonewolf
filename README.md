@@ -33,18 +33,18 @@
 
 ---
 
-[![nominate](https://img.shields.io/badge/Star-Nominate%20@idimetrix-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
+[![nominate](https://img.shields.io/badge/Star-Nominate%20@Ashita-no-lonewolf-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
 
 ---
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Kaushar Halani).
 
 <p>
-    <a href="https://github.com/idimetrix/idimetrix"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/idimetrix/idimetrix/graphs/contributors"><img src="https://img.shields.io/github/contributors/idimetrix/idimetrix?color=blue"></a>
-    <a href="https://github.com/idimetrix/idimetrix/stargazers"><img src="https://img.shields.io/github/stars/idimetrix/idimetrix.svg?logo=github"></a>
-    <a href="https://github.com/idimetrix/idimetrix/network/members"><img src="https://img.shields.io/github/forks/idimetrix/idimetrix.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=idimetrix" alt="visitors"/>   
+    <a href="https://github.com/Ashita-no-lonewolf/Ashita-no-lonewolf"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/Ashita-no-lonewolf/Ashita-no-lonewolf/graphs/contributors"><img src="https://img.shields.io/github/contributors/Ashita-no-lonewolf/Ashita-no-lonewolf?color=blue"></a>
+    <a href="https://github.com/Ashita-no-lonewolf/Ashita-no-lonewolf/stargazers"><img src="https://img.shields.io/github/stars/Ashita-no-lonewolf/Ashita-no-lonewolf.svg?logo=github"></a>
+    <a href="https://github.com/Ashita-no-lonewolf/Ashita-no-lonewolf/network/members"><img src="https://img.shields.io/github/forks/Ashita-no-lonewolf/Ashita-no-lonewolf.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Ashita-no-lonewolf" alt="visitors"/>   
 </p>
 
 I am 🧙 Lead Full-Stack Software Engineer and 🏆 Open Source lover
