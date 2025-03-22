@@ -1,4 +1,4 @@
-📢 Nominate ([@idimetrix](https://github.com/idimetrix/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.
+📢 Nominate ([@Ashita-no-lonewolf](https://github.com/Ashita-no-lonewolf/Ashita-no-lonewolf/tree/main)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.
 
 <a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="100%" src="./images/hero_0.5.png"></a>
 [**[Hire A Talent](https://tally.so/r/3lldZB)**]
@@ -37,7 +37,7 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Dmitry (Di).
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Kaushar Halani).
 
 <p>
     <a href="https://github.com/idimetrix/idimetrix"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -70,8 +70,8 @@ _I am open to new opportunities/contributions._
 
 ## Github stats:
 
-![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![GITHUB Stats](https://raw.githubusercontent.com/Ashita-no-lonewolf/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/Ashita-no-lonewolf/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![GITHUB Stats](https://raw.githubusercontent.com/Ashita-no-lonewolf/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/Ashita-no-lonewolf/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## 🔖 Featured repositories:
 
@@ -217,7 +217,7 @@ Big believer in:
 ## Thanks for visiting
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/idimetrix/count.svg">
+<img src="https://profile-counter.glitch.me/Ashita-no-lonewolf/count.svg">
 
 Counting of visitors to this page in this section started from May 1, 2022
 
@@ -225,7 +225,7 @@ Counting of visitors to this page in this section started from May 1, 2022
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=idimetrix/idimetrix&type=Date)](https://star-history.com/#idimetrix/idimetrix&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Ashita-no-lonewolf/Ashita-no-lonewolf&type=Date)](https://star-history.com/#Ashita-no-lonewolf/Ashita-no-lonewolf&Date)
 
 ---
 
@@ -233,23 +233,23 @@ Counting of visitors to this page in this section started from May 1, 2022
 
 <div>
   <a href="https://www.linkedin.com/in/dimetrix" target="_blank">
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/me64.png" width="300" />
+  <img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/me64.png" width="300" />
  </a>
   <br />
   <br />
-  <a href="https://www.linkedin.com/in/dimetrix?button=2&callback=https://github.com/idimetrix" target="_blank">
-    <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/up.png" width="35" />
+  <a href="https://www.linkedin.com/in/dimetrix?button=2&callback=https://github.com/Ashita-no-lonewolf" target="_blank">
+    <img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/up.png" width="35" />
   </a>
   <br />
-  <a href="https://www.linkedin.com/in/dimetrix?button=1&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/left.png" width="35" /></a>
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" />
-  <a href="https://www.linkedin.com/in/dimetrix?button=0&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/right.png" width="35" /></a>
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" />
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" />
-  <a href="https://www.linkedin.com/in/dimetrix?button=5&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/B.png" width="35" /></a>
-  <a href="https://www.linkedin.com/in/dimetrix?button=4&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/A.png" width="35" /></a> <br />
-  <a href="https://www.linkedin.com/in/dimetrix?button=3&callback=https://github.com/idimetrix" target="_blank">
-    <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/down.png" width="35" />
+  <a href="https://www.linkedin.com/in/dimetrix?button=1&callback=https://github.com/Ashita-no-lonewolf" target="_blank"><img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/left.png" width="35" /></a>
+  <img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/blank.png" width="35" />
+  <a href="https://www.linkedin.com/in/dimetrix?button=0&callback=https://github.com/Ashita-no-lonewolf" target="_blank"><img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/right.png" width="35" /></a>
+  <img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/blank.png" width="35" />
+  <img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/blank.png" width="35" />
+  <a href="https://www.linkedin.com/in/dimetrix?button=5&callback=https://github.com/Ashita-no-lonewolf" target="_blank"><img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/B.png" width="35" /></a>
+  <a href="https://www.linkedin.com/in/dimetrix?button=4&callback=https://github.com/Ashita-no-lonewolf" target="_blank"><img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/A.png" width="35" /></a> <br />
+  <a href="https://www.linkedin.com/in/dimetrix?button=3&callback=https://github.com/Ashita-no-lonewolf" target="_blank">
+    <img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/down.png" width="35" />
   </a>
   <br />
   <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" />
