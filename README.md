@@ -263,13 +263,13 @@ Counting of visitors to this page in this section started from May 1, 2022
 
 <!--   green snake -->
 
-![idimetrix's github activity graph](https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/output/github-contribution-grid-snake.svg)
+![Ashita-no-lonewolf's github activity graph](https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/output/github-contribution-grid-snake.svg)
 
 <!--   stats + languages -->
 
 | .                                                                                                                                                 | .                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![idimetrix's github stats](https://github-readme-stats.vercel.app/api?username=Ashita-no-lonewolf&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=x&theme=Ashita-no-lonewolfradical&layout=compact) |
+| ![Ashita-no-lonewolf's github stats](https://github-readme-stats.vercel.app/api?username=Ashita-no-lonewolf&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=x&theme=Ashita-no-lonewolfradical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=idimetrix"></img>
 
@@ -281,13 +281,13 @@ Counting of visitors to this page in this section started from May 1, 2022
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--   grid-snake ![](https://github.com/idimetrix/idimetrix/blob/output/github-contribution-grid-snake.svg) -->
+<!--   grid-snake ![](https://github.com/Ashita-no-lonewolf/Ashita-no-lonewolf/blob/output/github-contribution-grid-snake.svg) -->
 
-<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/idimetrix-->
+<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/Ashita-no-lonewolf-->
 
 <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=Ashita-no-lonewolf&show-other-skills=true" width="auto"></img>
 
-<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/idimetrix-->
+<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/Ashita-no-lonewolf-->
 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Ashita-no-lonewolf&show-other-skills=true" width="auto"></img>
 
@@ -298,18 +298,6 @@ Counting of visitors to this page in this section started from May 1, 2022
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ashita-no-lonewolf" alt="Ashita-no-lonewolf" /></a>
 </p>
-
-   <!--machine-learning-->
-
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-```
 
 ### Profile Views
 
