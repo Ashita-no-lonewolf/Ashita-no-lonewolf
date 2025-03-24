@@ -35,11 +35,6 @@ _I am open to new opportunities/contributions._
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/idimetrix)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://dmitrii-selikhov.vercel.app/)
 
-## Github stats:
-
-![GITHUB Stats](https://raw.githubusercontent.com/Ashita-no-lonewolf/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/Ashita-no-lonewolf/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![GITHUB Stats](https://raw.githubusercontent.com/Ashita-no-lonewolf/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/Ashita-no-lonewolf/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
 ## 🔖 Featured repositories:
 
 [![CTO, Software Architect, Technical Lead](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=idimetrix)](https://github.com/idimetrix/idimetrix)
@@ -182,43 +177,8 @@ Big believer in:
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/Ashita-no-lonewolf/count.svg">
 
-Counting of visitors to this page in this section started from May 1, 2022
-
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Ashita-no-lonewolf/Ashita-no-lonewolf&type=Date)](https://star-history.com/#Ashita-no-lonewolf/Ashita-no-lonewolf&Date)
 
 ---
-
-## 🎮 Try pressing the buttons and come back down
-
-<div>
-  <a href="https://www.linkedin.com/in/dimetrix" target="_blank">
-  <img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/me64.png" width="300" />
- </a>
-  <br />
-  <br />
-  <a href="https://www.linkedin.com/in/dimetrix?button=2&callback=https://github.com/Ashita-no-lonewolf" target="_blank">
-    <img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/up.png" width="35" />
-  </a>
-  <br />
-  <a href="https://www.linkedin.com/in/dimetrix?button=1&callback=https://github.com/Ashita-no-lonewolf" target="_blank"><img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/left.png" width="35" /></a>
-  <img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/blank.png" width="35" />
-  <a href="https://www.linkedin.com/in/dimetrix?button=0&callback=https://github.com/Ashita-no-lonewolf" target="_blank"><img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/right.png" width="35" /></a>
-  <img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/blank.png" width="35" />
-  <img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/blank.png" width="35" />
-  <a href="https://www.linkedin.com/in/dimetrix?button=5&callback=https://github.com/Ashita-no-lonewolf" target="_blank"><img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/B.png" width="35" /></a>
-  <a href="https://www.linkedin.com/in/dimetrix?button=4&callback=https://github.com/Ashita-no-lonewolf" target="_blank"><img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/A.png" width="35" /></a> <br />
-  <a href="https://www.linkedin.com/in/dimetrix?button=3&callback=https://github.com/Ashita-no-lonewolf" target="_blank">
-    <img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/down.png" width="35" />
-  </a>
-  <br />
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" />
-  <a href="https://www.linkedin.com/in/dimetrix?button=6&callback=https://github.com/Ashita-no-lonewolf" target="_blank"><img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/select.png" height="35" /></a>
-  <a href="https://www.linkedin.com/in/dimetrix?button=7&callback=https://github.com/Ashita-no-lonewolf" target="_blank"><img src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/main/images/start.png" height="35" /></a>
-</div>
 
 <!--   GitHub stats graph -->
 
@@ -245,11 +205,9 @@ Counting of visitors to this page in this section started from May 1, 2022
 
    ![](https://github.com/Ashita-no-lonewolf/Ashita-no-lonewolf/blob/output/github-contribution-grid-snake.svg) 
 
-<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/Ashita-no-lonewolf-->
 
 <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=Ashita-no-lonewolf&show-other-skills=true" width="auto"></img>
 
-<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/Ashita-no-lonewolf-->
 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Ashita-no-lonewolf&show-other-skills=true" width="auto"></img>
 
