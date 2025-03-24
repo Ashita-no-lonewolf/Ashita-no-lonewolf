@@ -17,7 +17,9 @@
 Hey! 👋 I'm a student learning data analysis 📊 and starting to try out open source 💻. On my GitHub, you'll see:
 
 My data projects, where I'm practicing my skills 📈.
+
 My first attempts at contributing to open source projects 💡.
+
 I'm excited to learn and work with others! Let's build cool stuff together! 🚀
 
 ## 📧 You can contact me on:
