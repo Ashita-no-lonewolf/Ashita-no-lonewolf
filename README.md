@@ -175,8 +175,6 @@ Big believer in:
 ### 📈 GitHub Activity Graph:
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashita-no-lonewolf"></img>
-
 
 <!--   profile-green-animate -->
 
@@ -195,7 +193,7 @@ Big believer in:
 
 ### Profile Views
 
-counting of visitors to this page in this section started from June 12, 2022
+counting of visitors to this page in this section started from March 22, 2025
 
 ![](https://count.getloli.com/get/@Ashita-no-lonewolf.github.readme)
 </br>
