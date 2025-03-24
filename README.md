@@ -1,6 +1,6 @@
 📢 Nominate ([@Ashita-no-lonewolf](https://github.com/Ashita-no-lonewolf/Ashita-no-lonewolf/tree/main)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.
 
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="100%" src="./images/hero_0.5.png"></a>
+<a href="https://www.linkedin.com/in/kaushar-halani-904804354 " target="_blank"><img width="100%" src="./images/hero_0.5.png"></a>
 
 ---
 
@@ -23,16 +23,14 @@ Welcome to my page; on my Github, you can find:
 
 ## 📧 You can contact me on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimetrix/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushar-halani-904804354 )
 
 _I am open to new opportunities/contributions._
 
 ## 🔎 You can find me on:
 
-<a href="mailto:selikhov.dmitrey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/idimetrix)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimetrix/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/idimetrix)
+<a href="mailto:halanikaushar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushar-halani-904804354 )
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://dmitrii-selikhov.vercel.app/)
 
 ## 🔖 Featured repositories:
