@@ -1,39 +1,6 @@
 📢 Nominate ([@Ashita-no-lonewolf](https://github.com/Ashita-no-lonewolf/Ashita-no-lonewolf/tree/main)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.
 
 <a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="100%" src="./images/hero_0.5.png"></a>
-[**[Hire A Talent](https://tally.so/r/3lldZB)**]
-[**[Request A Quote](https://tally.so/r/3lldZB)**]
-[**[Find A Jobs](https://tally.so/r/3j9Qza)**] \_\_\_
-[**[For Companies](https://tally.so/r/3lldZB)**]
-[**[For Developers](https://tally.so/r/3j9Qza)**]
-
-[**[Chat With Me](https://www.linkedin.com/in/dimetrix)**]
-[**[Work With Me](https://www.linkedin.com/in/dimetrix)**]
-[**[Newsletters](https://idimetrix.substack.com)**]
-
-<p align="center">
-<a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/1.png"></a>
-<a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/2.png"></a>
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/3.png"></a>
-</p>
-<p align="center">
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/4.png"></a>
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/5.png"></a>
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/6.png"></a>
-</p>
-<p align="center">
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/7.png"></a>
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/8.png"></a>
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/9.png"></a>
-</p>
-
-[**[My CV - Build CV](https://github.com/idimetrix/cv)**]
-[**[My README - Build README](https://github.com/idimetrix/idimetrix)**]
-[**[My WEBSITE - Build WEBSITE](https://github.com/idimetrix/idimetrix.github.io)**]
-
----
-
-[![nominate](https://img.shields.io/badge/Star-Nominate%20@Ashita-no-lonewolf-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
 
 ---
 
