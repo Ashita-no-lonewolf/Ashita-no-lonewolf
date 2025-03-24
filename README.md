@@ -14,12 +14,11 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Ashita-no-lonewolf" alt="visitors"/>   
 </p>
 
-I am 🧙 Lead Full-Stack Software Engineer and 🏆 Open Source lover
+Hey! 👋 I'm a student learning data analysis 📊 and starting to try out open source 💻. On my GitHub, you'll see:
 
-Welcome to my page; on my Github, you can find:
-
-- Projects created by me
-- Projects contributed by me
+My data projects, where I'm practicing my skills 📈.
+My first attempts at contributing to open source projects 💡.
+I'm excited to learn and work with others! Let's build cool stuff together! 🚀
 
 ## 📧 You can contact me on:
 
