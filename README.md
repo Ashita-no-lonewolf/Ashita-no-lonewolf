@@ -167,14 +167,6 @@ Big believer in:
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
----
-
-
-## Thanks for visiting
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/Ashita-no-lonewolf/count.svg">
-
 
 ---
 
