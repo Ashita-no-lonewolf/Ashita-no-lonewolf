@@ -275,13 +275,13 @@ Counting of visitors to this page in this section started from May 1, 2022
 
 <!-- dark snake -->
 
-![idimetrix's github activity graph](https://raw.githubusercontent.com/Ashita-no-lonewolf/idimetrix/output/github-contribution-grid-snake-dark.svg)
+![Ashita-no-lonewolf's github activity graph](https://raw.githubusercontent.com/Ashita-no-lonewolf/idimetrix/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--   grid-snake ![](https://github.com/Ashita-no-lonewolf/Ashita-no-lonewolf/blob/output/github-contribution-grid-snake.svg) -->
+  grid-snake ![](https://github.com/Ashita-no-lonewolf/Ashita-no-lonewolf/blob/output/github-contribution-grid-snake.svg) 
 
 <!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/Ashita-no-lonewolf-->
 
