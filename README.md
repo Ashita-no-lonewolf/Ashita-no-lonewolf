@@ -184,20 +184,9 @@ Big believer in:
 
 ### 📈 GitHub Activity Graph:
 
-<!--   green snake -->
-
-![Ashita-no-lonewolf's github activity graph](https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/output/github-contribution-grid-snake.svg)
-
-<!--   stats + languages -->
-
-
-| ![Ashita-no-lonewolf's github stats](https://github-readme-stats.vercel.app/api?username=Ashita-no-lonewolf&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=x&theme=Ashita-no-lonewolfradical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashita-no-lonewolf"></img>
 
-<!-- dark snake -->
-
-[Ashita-no-lonewolf's github activity graph](https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
 
@@ -205,11 +194,6 @@ Big believer in:
 
    ![](https://github.com/Ashita-no-lonewolf/Ashita-no-lonewolf/blob/output/github-contribution-grid-snake.svg) 
 
-
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=Ashita-no-lonewolf&show-other-skills=true" width="auto"></img>
-
-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Ashita-no-lonewolf&show-other-skills=true" width="auto"></img>
 
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
