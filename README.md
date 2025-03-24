@@ -45,49 +45,37 @@ _I am open to new opportunities/contributions._
 
 ## Personal stats:
 
-#### With over 15 years of experience and 7+ years of education in Computer Science, a Lead Full-Stack Software Engineer specializes in designing and developing web applications. Skilled in JavaScript frameworks like React, Vue, Svelte, Stencil, and Angular, and proficient with back-end technologies such as Node, Go, and Rust, this role focuses on creating scalable, efficient, and secure applications.
-
+#### A pre-finale student with a strong foundation in computer science and a developing expertise in data analysis. Eager to contribute to and learn from the open-source community, with a focus on applying analytical skills to real-world projects.
 <details>
   <summary>Highlights / Proficiencies / Interests / Believes</summary>
 
 Highlights:
 
-- ⭐ 15+ years of professional experience in full lifecycle development (web2/web3)
-- ⭐ 7+ years of leadership positions (Technical Lead, Technical Architect, CTO/CEO)
-- ⭐ Delivered over 50+ projects
-- ⭐ Worked with over 25+ companies from startup to enterprise level
-- ⭐ Delivered over 50+ projects
-- ⭐ Mentoring over 150+ individuals on how to grow their technical and leadership skills
-- ⭐ Co-founder and co-creator of 5 Web2 and 3 Web3 projects
-- ⭐ Web2 and Web3 expert, I specialize in facilitating the seamless transition from Web2 to Web3 technologies.
-- ⭐ Worked on innovative and cutting-edge projects
-- ⭐ Contribute to industry thought leadership
-- ⭐ Contribute to open source and private source
+- ⭐ Developing proficiency in data analysis techniques.
+- ⭐ Active learner in open-source contribution workflows.
+- ⭐ Building a portfolio of data analysis projects.
+- ⭐ Eager to learn new tools and technologies.
 - ⭐ Master new technologies, master computer science and mathematics
 
 Proficiencies:
 
-- 📚 JavaScript, TypeScript, Node.js with Serverless and Containers and Microservices architecture
-- 📚 React.js + Next.js + SSR/CSR + Prisma + Vercel
-- 📚 Vue.js + Nuxt.js + SSR/CSR + TypeOrm + Cloudflare
-- 📚 Angular, RxJS, NgRx
-- 📚 Svelte and Stencil + Storybook + Web Components
-- 📚 SQL and NoSQL databases (MySQL, PostgreSQL, MongoDB, DynamoDB, Redis)
-- 📚 AWS, Azure and GCP
-- 📚 Go lang, Move lang, Rust
-- 📚 HTML5/CSS3 + Canvas + WebGL + Animation
-- 📚 Agile, Scrum, Kanban
-- 📚 Web2/Web3 startups
-- 📚 Cryptography (cryptocurrency and blockchain)
-- 📚 Team Leadership
-- 📚 Project Leadership
+- 📚 Python (Pandas, NumPy, Scikit-learn).
+- 📚 SQL for data querying.
+- 📚 Data visualization tools (e.g., Matplotlib, Seaborn).
+- 📚 Basic understanding of machine learning concepts.
+- 📚 Git and version control for open-source contributions.
+- 📚 Basic understanding of statistical analysis.
 
 Interests:
 
 - ✔️ Self-education and self-development: Continuously seek opportunities for personal growth, self-improvement, and acquiring new knowledge and skills to stay at the forefront of industry trends and advancements.
 - ✔️ Family: Place great importance on nurturing and cherishing family bonds, fostering strong relationships, and maintaining a healthy work-life balance to support personal well-being and fulfillment.
-- ✔️ Sport (gym, padel tennis, crossfit): Engage in physical activities such as gym workouts, padel tennis, and crossfit, recognizing the importance of maintaining an active and healthy lifestyle to enhance productivity, focus, and overall well-being.
-
+- ✔️ Expanding data analysis skills through practical projects.
+- ✔️ Contributing to open-source data science initiatives.
+- ✔️ Learning from experienced data analysts and developers.
+- ✔️ Exploring new data visualization techniques.
+- ✔️ Gaining knowledge on Machine learning.
+  
 Big believer in:
 
 - 💡 Power of continuous learning and personal growth
@@ -95,6 +83,9 @@ Big believer in:
 - 💡 Value of hard work and perseverance in achieving success
 - 💡 Power of empathy and kindness in fostering meaningful connections and creating a harmonious society
 - 💡 Importance of ethical behavior and integrity in all aspects of life
+- 💡 The power of collaborative learning in open source.
+- 💡 Continuous skill development through practical application.
+- 💡 The value of contributing to projects that have a positive impact.
 
 </details>
 
