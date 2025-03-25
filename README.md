@@ -170,9 +170,9 @@ Big believer in:
 
 <!--   profile-green-animate -->
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+ ![](https://github.com/Ashita-no-lonewolf/Ashita-no-lonewolf/blob/output/github-contribution-grid-snake.svg) 
 
-   ![](https://github.com/Ashita-no-lonewolf/Ashita-no-lonewolf/blob/output/github-contribution-grid-snake.svg) 
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 <div align="center">
@@ -183,6 +183,9 @@ Big believer in:
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ashita-no-lonewolf" alt="Ashita-no-lonewolf" /></a>
 </p>
 
+
+ ![](https://github.com/Ashita-no-lonewolf/Ashita-no-lonewolf/blob/output/github-contribution-grid-snake.svg) 
+ 
 ### Profile Views
 
 counting of visitors to this page in this section started from March 22, 2025
