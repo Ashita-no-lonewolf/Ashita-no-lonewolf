@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/kaushar-halani-904804354 " target="_blank"><img width="100%" src="./images/hero_0.5.png"></a>
 
----
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Kaushar Halani).
 
@@ -41,7 +41,7 @@ _I am open to new opportunities/contributions._
 [![Awesome Talents (Worldwide Talents)](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=awesome-talents)](https://github.com/idimetrix/awesome-talents)
 [![Awesome Job Boards (All Job Boards)](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=awesome-job-boards)](https://github.com/idimetrix/awesome-job-boards)
 
----
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 ## Personal stats:
 
@@ -187,7 +187,7 @@ counting of visitors to this page in this section started from March 22, 2025
 
 [MIT](LICENSE)
 
----
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 ## _If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use._
 
@@ -195,7 +195,7 @@ Would you like to meet me?
 
 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
 
----
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 ## _I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed._
 
