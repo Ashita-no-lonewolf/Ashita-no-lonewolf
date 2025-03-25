@@ -172,6 +172,16 @@ Big believer in:
 
  ![](https://github.com/Ashita-no-lonewolf/Ashita-no-lonewolf/blob/output/github-contribution-grid-snake.svg) 
 
+
+<p align="center">
+  <a href="https://github.com/aoaydin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashita-no-lonewolf&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
+    <br/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashita-no-lonewolf&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
+  </a>
+</p>
+
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
