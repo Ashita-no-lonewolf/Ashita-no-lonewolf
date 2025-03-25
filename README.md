@@ -184,7 +184,7 @@ Big believer in:
 </p>
 
 
- ![](https://github.com/Ashita-no-lonewolf/Ashita-no-lonewolf/blob/output/github-contribution-grid-snake.svg) 
+ ![](https://github.com/Ashita-no-lonewolf/Ashita-no-lonewolf/blob/output/github-contribution-grid-snake-dark.svg) 
  
 ### Profile Views
 
