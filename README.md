@@ -90,60 +90,56 @@ Big believer in:
 </details>
 
 ## My Skills:
-
-<h3 align="center">Languages</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"
-    alt="python" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" />
 </p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white"
-    alt="graphql" />
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"
-    alt="django" />
-  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" />
+<ul>
+<li>Frontend</li>
+</ul>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,">
+  </a>
 </p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-    alt="postgresql" />
-  <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-    alt="sqlite" />
-  <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-    alt="mongodb" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+<ul>
+<li>Backend</li>
+</ul>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,django,flask,">
+  </a>
 </p>
-
-<h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white"
-    alt="amazon-web-services" />
+<img align="right" alt="GIF" height="260px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+<ul>
+<li>Database</li>
+</ul>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,graphql,">
+  </a>
+ </p>
+ <ul>
+ <li>Data Analysis</li>
+ </ul>
+<p align="left">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=py,r,">
+  </a>
 </p>
-
-<h3 align="center">Version Control & CI/CD</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"
-    alt="github" />
-  <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="git" />
+<ul>
+<li>Cloud Servers</li>
+</ul>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,">
+  </a>
 </p>
-
-<h3 align="center">Preferred IDEs & Tools :</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"
-    alt="vsCode" />
-  <img
-    src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"
-    alt="visual-studio" />
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
-    alt="intellij-idea" />
+<ul>
+<li>Tools</li>
+</ul>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,vscode,git,github,anaconda navigator,">
+  </a>
 </p>
-<br>
-
 <!--   GitHub stats graph -->
 
 ### 📈 GitHub Activity Graph:
