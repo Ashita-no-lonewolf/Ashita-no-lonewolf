@@ -34,14 +34,14 @@ _I am open to new opportunities/contributions._
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushar-halani-904804354 )
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://dmitrii-selikhov.vercel.app/)
 
-## 🔖 Featured repositories:
+<!--## 🔖 Featured repositories:
 
 [![CTO, Software Architect, Technical Lead](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=idimetrix)](https://github.com/idimetrix/idimetrix)
 [![Free CV Maker with Print-Friendly Responsive Layout](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=cv)](https://github.com/idimetrix/cv)
 [![Awesome Talents (Worldwide Talents)](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=awesome-talents)](https://github.com/idimetrix/awesome-talents)
 [![Awesome Job Boards (All Job Boards)](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=awesome-job-boards)](https://github.com/idimetrix/awesome-job-boards)
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p> -->
 
 ## Personal stats:
 
@@ -90,6 +90,7 @@ Big believer in:
 </details>
 
 ## My Skills:
+<!--
 </p>
 <ul>
 <li>Frontend</li>
@@ -115,7 +116,7 @@ Big believer in:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,graphql,">
   </a>
- </p>
+ </p> -->
  <ul>
  <li>Data Analysis</li>
  </ul>
@@ -124,6 +125,7 @@ Big believer in:
      <img src="https://skillicons.dev/icons?i=py,r,">
   </a>
 </p>
+<!--
 <ul>
 <li>Cloud Servers</li>
 </ul>
@@ -131,9 +133,9 @@ Big believer in:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,">
   </a>
-</p>
+</p> -->
 <ul>
-<li>Tools</li>
+<li>Tools and Ide's</li>
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
