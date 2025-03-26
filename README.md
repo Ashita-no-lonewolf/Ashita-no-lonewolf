@@ -107,7 +107,7 @@ Big believer in:
     <img src="https://skillicons.dev/icons?i=java,django,flask,">
   </a>
 </p>
-<img align="right" alt="GIF" height="260px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+
 <ul>
 <li>Database</li>
 </ul>
@@ -226,12 +226,14 @@ if (isCodeWorking) {
 while (alive) {
     eat();
     sleep();
-    console.log("Repeat! Because life is a loop. 🍕💤🔁");
+    console.log("Repeat! Because life is a loop. 🍎💤🔁");
 }
 
 // - Kaushar
-
 ```
 
+<img align="right" alt="GIF" height="700px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+
 <!-- Custom Footer -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
