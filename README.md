@@ -90,7 +90,7 @@ Big believer in:
 </details>
 
 ## My Skills:
-<!--
+
 </p>
 <ul>
 <li>Frontend</li>
@@ -116,7 +116,7 @@ Big believer in:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,graphql,">
   </a>
- </p> -->
+ </p> 
  <ul>
  <li>Data Analysis</li>
  </ul>
@@ -125,7 +125,7 @@ Big believer in:
      <img src="https://skillicons.dev/icons?i=py,r,">
   </a>
 </p>
-<!--
+
 <ul>
 <li>Cloud Servers</li>
 </ul>
@@ -133,7 +133,7 @@ Big believer in:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,">
   </a>
-</p> -->
+</p> 
 <ul>
 <li>Tools and Ide's</li>
 </ul>
