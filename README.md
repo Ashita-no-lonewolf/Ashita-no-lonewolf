@@ -32,7 +32,7 @@ _I am open to new opportunities/contributions._
 
 <a href="mailto:halanikaushar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushar-halani-904804354 )
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://dmitrii-selikhov.vercel.app/)
+<!--[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://dmitrii-selikhov.vercel.app/) -->
 
 <!--## 🔖 Featured repositories:
 
@@ -205,9 +205,9 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 <a href="https://www.linkedin.com/in/kaushar-halani-904804354 ">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://elevanceit.com/">
+<!--<a href="https://elevanceit.com/">
 <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Website">
-</a>
+</a> -->
 </p>
 
 ```TypeScript
