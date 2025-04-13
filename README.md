@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/kaushar-halani-904804354 " target="_blank"><img width="100%" src="./images/hero_0.5.png"></a>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+<!--<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p> -->
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Kaushar Halani).
 
